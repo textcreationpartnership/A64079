@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tyrconnel's speech to his Privy Council made upon the (expected) landing of the late King James in Ireland : with remarks upon it.</title>
+            <author>Tyrconnel, Richard Talbot, Earl of, 1630-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64079</idno>
+            <idno type="STC">Wing T3577A</idno>
+            <idno type="STC">ESTC R20944</idno>
+            <idno type="EEBO-CITATION">12177856</idno>
+            <idno type="OCLC">ocm 12177856</idno>
+            <idno type="VID">55568</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64079)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55568)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:52)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tyrconnel's speech to his Privy Council made upon the (expected) landing of the late King James in Ireland : with remarks upon it.</title>
+                  <author>Tyrconnel, Richard Talbot, Earl of, 1630-1691.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Cademan,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Attributed to Richard Tyrconnel. cf. NUC.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Great Britain --  History --  Revolution of 1688.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:55568:1" rendition="simple:additions"/>
+            <head>
+               <hi>Tyrconnel</hi>'s SPEECH to his Privy Council, Made upon the (Expected) Landing of the Late King <hi>James</hi> in <hi>Ireland.</hi>
+            </head>
+            <head type="sub">
+               <hi>With Remarks upon it.</hi>
+            </head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>THE Neceſſity of our Affairs, at preſent, require your moſt ſedate Conſideration, when Matters of leſs moment are ſoon weighed without any great matter of Debate. We are not only blamed, but Threatned from <hi>England,</hi> for continuing the Sword in our Hands; and it is declared, That upon our Refuſal to lay it down, We ſhall be proceeded againſt as <hi>Traitors</hi> to that Government. King <hi>James,</hi> whom we ſhall ever Acknowledge our Royal Maſter, (nor do we think our ſelves oblig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to own any other <hi>Monarch</hi> over us) has ſent us no ſuch Orders; but, on the contrary, has laid his Royal Commands upon us, to continue our Men in Arms, and uſe all our Induſtry to increaſe Diſcipline, and in<g ref="char:EOLhyphen"/>courage our Souldiery, with his Princely Promiſe to Aſſiſt us with Men and Arms from <hi>France;</hi> and not only that, but an Aſſurance of his Royal Pre<g ref="char:EOLhyphen"/>ſence here; which will ſo enliven the hearts of all his <hi>Catholick</hi> Subjects, that I hope we need have no Apprehenſions, but that we ſhall be able to Secure our Religion and Liberties againſt all Oppoſers, according to the ancient Cuſtom of this Kingdom: <hi>My Lords,</hi> In purſuance of theſe Com<g ref="char:EOLhyphen"/>mands, we have ſeized the <hi>Proteſtant</hi> Effects in this Kingdom, for the pay<g ref="char:EOLhyphen"/>ing and incouraging our Army; and have given them ſuch Liberty of Quar<g ref="char:EOLhyphen"/>tering, and otherwiſe, that we are afraid the Conſequence may prove inju<g ref="char:EOLhyphen"/>rious to Us, as well as the <hi>Proteſtant</hi> People, who are fled from their Lands and Houſes; and we begin already to believe that a Famine threatens us. It is our buſineſs therefore to conſider of a Fund to Maintain our Army, (for when Tenants are incapacitated to pay, How can we expect it?) until we receive Supplies from <hi>France,</hi> which will not be wanting with the firſt op<g ref="char:EOLhyphen"/>portunity: There is only one way, which is this; We muſt borrow from our ſelves awhile, to Serve the King, and the <hi>Catholick</hi> Cauſe, that it may return to him and us: My <hi>Lords,</hi> In the firſt place, I hope we are all of one Mind, as to keeping up our Army, notwithſtanding the Threats from <hi>England. Secondly,</hi> We doubt not, but all of us have the ſame value for our Royal Maſter's Perſon and Religion, as well as the ſame Senſe of his Misfortunes. <hi>Thirdly,</hi> The Incouragement we have from <hi>France. Fourthly,</hi> Our Royal Maſter's Commands, and expectation of ſeeing him here.</p>
+            <p>Let theſe Things induce you to conſider about a preſent Fund: I have laid the way before you, in a former part o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my Diſcourſe, and ſhall not be wanting as to my particular.</p>
+         </div>
+         <div type="remarks">
+            <head>REMARQUES.</head>
+            <p>THE Blackneſs of <hi>Tyrconnel's</hi> Cauſe, and Proſecution of it, is ſo apparent to all good men, that Remarks are almoſt needleſs. However, with what Face can he pretend to continue his Allegiance to the late King, when <hi>Ireland</hi> is a Dependant on <hi>England,</hi> by their own Eſtabliſht Laws, and conſequently involved in the ſame Obedience, and therefore in Allegiance bound to our preſent Soveraign Lord and Lady, King <hi>William</hi> and Queen <hi>Mary:</hi> And notwithſtanding the unde<g ref="char:EOLhyphen"/>niable Right in the community in Convention late aſſembled, of fixing the Crown; and therein the Legality of our preſent Soveraigns Title, 'tis Notoriouſly known, that by the Laws of the Land, a King even <hi>de facto</hi> is to be obeyed: But the World, ſees through the cheat, as fair a and pretence of Loyalty, as is here ſtarted; Affairs have been ſo managed in this Kingdom, that the very ſame Scene was moſt certainly expected there, whenever a Proteſtant Prince, even by Deſcent it ſelf, had come to the <hi>Crown.</hi> For the Sword and Adminiſtration was put into the Romiſh hands for that purpoſe: And the <hi>Catholick</hi> cauſe would have been as impudently aſſerted by downright Blood and Rebellion Then, as 'tis by pretended Loyalty Now.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>William Cademan.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
